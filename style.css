@@ -1,0 +1,85 @@
+.head {
+  font-size: 16px;
+}
+body {
+  font-family: Helvetica;
+}
+.nav-underline a:hover {
+  border-bottom: 2px solid black;
+  color: brown;
+}
+.nav-link {
+  color: black;
+}
+#of1 {
+  font-size: 16px;
+  color: gray;
+}
+#ofl1 {
+  font-size: 14px;
+  color: royalblue;
+  text-decoration: none;
+}
+#ofl1:hover {
+  color: brown;
+}
+.bbox {
+  background-color: orange;
+}
+.bbox a {
+  color: white;
+  text-decoration: none;
+}
+h1 {
+  font-weight: bolder;
+  font-size: 65px;
+  font-display: thick;
+}
+.btn {
+  border-radius: 50px;
+}
+.btn:hover {
+  transition: transform 0.8s;
+  transform: scale(1.09);
+}
+.es:hover {
+  transition: transform 0.9s;
+  transform: scale(0.8, 0.9);
+}
+.footlinks a {
+  font-size: 16px;
+}
+.footlinks a:hover {
+  color: rgba(17, 17, 17, 0.732);
+}
+.footer a {
+  font-size: 14px;
+  font-weight: bolder;
+  color: white;
+}
+.footer small {
+  color: gray;
+}
+.footer small:hover {
+  color: white;
+}
+.footer a:hover {
+  color: darkgray;
+}
+.icons img {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: black;
+}
+.icons img:hover {
+  transition: transform 0.8s;
+  transform: scale(1.09);
+}
+.terms small {
+  color: darkgray;
+  font-size: 12px;
+}
+.terms small:hover {
+  color: white;
+}
